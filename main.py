@@ -2,7 +2,7 @@ import speech_recognition as sr
 import openai 
 import pyttsx3
 
-openai.api_key='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'
+openai.api_key='sk-api-key'
 
 listener=sr.Recognizer()
 
